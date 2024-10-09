@@ -1,4 +1,4 @@
----
+verifguty@outlook.comLebanon---
 title: Search
 layout: default
 permalink: /search/
@@ -19,7 +19,7 @@ You can also:
 
 ## Search Form
 
-<form action="{{ page.url | relative_url }}" class="searchform">
+rm action="{{ page.url | relative_url }}" class="searchform">
     <label for="tipue_search_input">Search:</label>
     <input type="search" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required>
     <button class="button button--icon" type="submit">
